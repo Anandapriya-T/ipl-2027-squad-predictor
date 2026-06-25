@@ -22,9 +22,9 @@ import os
 
 BASE_DIR      = os.path.dirname(os.path.abspath(__file__))
 # ── CONFIG ────────────────────────────────────────────────────────
-PROCESSED_DIR = r'E:\My ML Projects\2027 cricket squad prediction\data\processed' + '\\'
-MODELS_DIR    = r'E:\My ML Projects\2027 cricket squad prediction\models' + '\\'
-RAW_DIR       = r'E:\My ML Projects\2027 cricket squad prediction\data\raw' + '\\'
+PROCESSED_DIR = os.path.join(BASE_DIR, '..', 'data', 'processed')
+MODELS_DIR    = os.path.join(BASE_DIR, '..', 'models')
+RAW_DIR       = os.path.join(BASE_DIR, '..', 'data', 'raw')
 # ─────────────────────────────────────────────────────────────────
 # ─────────────────────────────────────────────────────────────────
 
