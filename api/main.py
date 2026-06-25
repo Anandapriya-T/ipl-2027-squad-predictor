@@ -22,9 +22,10 @@ import os
 
 BASE_DIR      = os.path.dirname(os.path.abspath(__file__))
 # ── CONFIG ────────────────────────────────────────────────────────
-PROCESSED_DIR = os.path.join(BASE_DIR, '..', 'data', 'processed')
-MODELS_DIR    = os.path.join(BASE_DIR, '..', 'models')
-RAW_DIR       = os.path.join(BASE_DIR, '..', 'data', 'raw')
+BASE_DIR      = os.path.dirname(os.path.abspath(__file__))
+PROCESSED_DIR = os.path.join(BASE_DIR, 'data', 'processed') + os.sep
+MODELS_DIR    = os.path.join(BASE_DIR, 'models') + os.sep
+RAW_DIR       = os.path.join(BASE_DIR, 'data', 'raw') + os.sep
 # ─────────────────────────────────────────────────────────────────
 # ─────────────────────────────────────────────────────────────────
 
@@ -50,13 +51,13 @@ def load_assets():
     global combined_scores, auction_pool
     global bat_explainer, bowl_explainer
 
-    bat_model     = joblib.load(MODELS_DIR + 'batting_model.pkl')
-    bowl_model    = joblib.load(MODELS_DIR + 'bowling_model.pkl')
-    bat_features  = joblib.load(MODELS_DIR + 'batting_features.pkl')
-    bowl_features = joblib.load(MODELS_DIR + 'bowling_features.pkl')
+bat_model     = joblib.load(os.path.join(MODELS_DIR, 'batting_model.pkl'))
+bowl_model    = joblib.load(os.path.join(MODELS_DIR, 'bowling_model.pkl'))
+bat_features  = joblib.load(os.path.join(MODELS_DIR, 'batting_features.pkl'))
+bowl_features = joblib.load(os.path.join(MODELS_DIR, 'bowling_features.pkl'))
+combined_scores = pd.read_parquet(os.path.join(PROCESSED_DIR, 'combined_player_scores.parquet'))
+auction_pool    = pd.read_csv(os.path.join(RAW_DIR, 'auction_pool_2027.csv'))
 
-    combined_scores = pd.read_parquet(PROCESSED_DIR + 'combined_player_scores.parquet')
-    auction_pool    = pd.read_csv(RAW_DIR + 'auction_pool_2027.csv')
 
     bat_explainer  = shap.TreeExplainer(bat_model)
     bowl_explainer = shap.TreeExplainer(bowl_model)
