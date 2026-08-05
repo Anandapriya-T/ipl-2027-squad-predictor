@@ -1,0 +1,136 @@
+player_name,available,nationality,role_hint,bowling_style,bowling_type
+RR Pant,1,Indian,WK,unknown,WK
+KL Rahul,1,Indian,WK,unknown,WK
+Ishan Kishan,1,Indian,WK,unknown,WK
+SV Samson,1,Indian,WK,unknown,WK
+KS Bharat,1,Indian,WK,unknown,WK
+Dhruv Jurel,1,Indian,WK,unknown,WK
+PD Salt,1,English,WK,unknown,WK
+Q de Kock,1,South African,WK,unknown,WK
+H Klaasen,1,South African,WK,unknown,WK
+N Pooran,1,West Indian,WK,unknown,WK
+JM Bairstow,1,English,WK,unknown,WK
+WP Saha,0,Indian,WK,unknown,WK
+MS Dhoni,0,Indian,WK,unknown,WK
+PA Patel,0,Indian,WK,unknown,WK
+NV Ojha,0,Indian,WK,unknown,WK
+RG Sharma,1,Indian,BAT,unknown,BAT
+V Kohli,1,Indian,BAT,unknown,BAT
+S Dhawan,0,Indian,BAT,unknown,BAT
+DA Warner,1,Australian,BAT,unknown,BAT
+F du Plessis,1,South African,BAT,unknown,BAT
+B Sai Sudharsan,1,Indian,BAT,unknown,BAT
+Shubman Gill,1,Indian,BAT,unknown,BAT
+YBK Jaiswal,1,Indian,BAT,unknown,BAT
+RR Rossouw,1,South African,BAT,unknown,BAT
+TM Head,1,Australian,BAT,unknown,BAT
+Abhishek Sharma,1,Indian,BAT,unknown,BAT
+PP Shaw,1,Indian,BAT,unknown,BAT
+AM Rahane,0,Indian,BAT,unknown,BAT
+AT Rayudu,0,Indian,BAT,unknown,BAT
+SK Raina,0,Indian,BAT,unknown,BAT
+CH Gayle,0,West Indian,BAT,unknown,BAT
+KP Pietersen,0,English,BAT,unknown,BAT
+M Vijay,0,Indian,BAT,unknown,BAT
+KK Nair,1,Indian,BAT,unknown,BAT
+RA Tripathi,1,Indian,BAT,unknown,BAT
+D Padikkal,1,Indian,BAT,unknown,BAT
+SS Iyer,1,Indian,BAT,unknown,BAT
+MA Agarwal,1,Indian,BAT,unknown,BAT
+RD Gaikwad,1,Indian,BAT,unknown,BAT
+RM Patidar,1,Indian,BAT,unknown,BAT
+Tilak Varma,1,Indian,BAT,unknown,BAT
+TH David,1,Singaporean,BAT,unknown,BAT
+T Stubbs,1,South African,BAT,unknown,BAT
+HC Brook,1,English,BAT,unknown,BAT
+AD Hales,1,English,BAT,unknown,BAT
+JJ Roy,1,English,BAT,unknown,BAT
+DJ Malan,1,English,BAT,unknown,BAT
+CA Lynn,1,Australian,BAT,unknown,BAT
+AJ Finch,0,Australian,BAT,unknown,BAT
+SPD Smith,1,Australian,BAT,unknown,BAT
+KS Williamson,1,New Zealander,BAT,unknown,BAT
+Priyansh Arya,1,Indian,BAT,unknown,BAT
+Sameer Rizvi,1,Indian,BAT,unknown,BAT
+Shashank Singh,1,Indian,BAT,unknown,BAT
+R Parag,1,Indian,BAT,unknown,BAT
+Abdul Samad,1,Indian,BAT,unknown,BAT
+HH Pandya,1,Indian,AR,pace,AR
+KH Pandya,1,Indian,AR,pace,AR
+RA Jadeja,1,Indian,AR,spin,AR
+AD Russell,1,West Indian,AR,pace,AR
+GJ Maxwell,1,Australian,AR,unknown,AR
+MP Stoinis,1,Australian,AR,pace,AR
+SM Curran,1,English,AR,pace,AR
+R Tewatia,1,Indian,AR,unknown,AR
+Shahbaz Ahmed,1,Indian,AR,spin,AR
+Washington Sundar,1,Indian,AR,spin,AR
+S Dube,1,Indian,AR,unknown,AR
+V Shankar,1,Indian,AR,unknown,AR
+AR Patel,1,Indian,AR,spin,AR
+N Rana,1,Indian,AR,unknown,AR
+SP Narine,1,West Indian,AR,spin,AR
+JO Holder,1,West Indian,AR,pace,AR
+MM Ali,1,English,AR,spin,AR
+DJ Hooda,1,Indian,AR,unknown,AR
+LS Livingstone,1,English,AR,spin,AR
+BA Stokes,1,English,AR,pace,AR
+MR Marsh,1,Australian,AR,pace,AR
+C Green,1,Australian,AR,unknown,AR
+M Jansen,1,South African,AR,pace,AR
+KA Pollard,0,West Indian,AR,unknown,AR
+SR Watson,0,Australian,AR,unknown,AR
+DJ Bravo,0,West Indian,AR,unknown,AR
+Rashid Khan,1,Afghan,BOWL,spin,SPIN
+YS Chahal,1,Indian,BOWL,spin,SPIN
+R Ashwin,1,Indian,BOWL,spin,SPIN
+JJ Bumrah,1,Indian,BOWL,pace,PACE
+Mohammed Shami,1,Indian,BOWL,pace,PACE
+T Natarajan,1,Indian,BOWL,pace,PACE
+Arshdeep Singh,1,Indian,BOWL,pace,PACE
+KK Ahmed,1,Indian,BOWL,pace,PACE
+Avesh Khan,1,Indian,BOWL,pace,PACE
+MM Sharma,1,Indian,BOWL,pace,PACE
+TU Deshpande,1,Indian,BOWL,pace,PACE
+Akash Singh,1,Indian,BOWL,pace,PACE
+Mukesh Kumar,1,Indian,BOWL,pace,PACE
+Kuldeep Yadav,1,Indian,BOWL,spin,SPIN
+Ravi Bishnoi,1,Indian,BOWL,spin,SPIN
+JM Sharma,1,Indian,BOWL,pace,PACE
+Noor Ahmad,1,Afghan,BOWL,spin,SPIN
+Mujeeb Ur Rahman,1,Afghan,BOWL,spin,SPIN
+K Rabada,1,South African,BOWL,pace,PACE
+A Nortje,1,South African,BOWL,pace,PACE
+JR Hazlewood,1,Australian,BOWL,pace,PACE
+A Zampa,1,Australian,BOWL,pace,SPIN
+TK Curran,1,English,BOWL,pace,PACE
+MA Wood,1,English,BOWL,pace,PACE
+DJ Willey,1,English,BOWL,pace,PACE
+J Little,1,Irish,BOWL,pace,PACE
+M Theekshana,1,Sri Lankan,BOWL,spin,SPIN
+M Pathirana,1,Sri Lankan,BOWL,pace,PACE
+KA Maharaj,1,South African,BOWL,spin,SPIN
+Sandeep Sharma,1,Indian,BOWL,pace,PACE
+UT Yadav,0,Indian,BOWL,unknown,PACE
+JD Unadkat,1,Indian,BOWL,pace,PACE
+DL Chahar,1,Indian,BOWL,pace,PACE
+SL Malinga,0,Sri Lankan,BOWL,unknown,PACE
+B Kumar,1,Indian,BOWL,pace,PACE
+SN Thakur,1,Indian,BOWL,pace,PACE
+NA Saini,1,Indian,BOWL,pace,PACE
+Shivam Mavi,1,Indian,BOWL,pace,PACE
+MP Yadav,1,Indian,BOWL,pace,PACE
+Harshit Rana,1,Indian,BOWL,pace,PACE
+Yash Dayal,1,Indian,BOWL,pace,PACE
+R Sai Kishore,1,Indian,BOWL,spin,SPIN
+CV Varun,1,Indian,BOWL,spin,SPIN
+Mohammed Siraj,1,Indian,BOWL,pace,PACE
+M Prasidh Krishna,1,Indian,BOWL,pace,PACE
+Mukesh Choudhary,1,Indian,BOWL,pace,PACE
+C Sakariya,1,Indian,BOWL,pace,PACE
+Umran Malik,1,Indian,BOWL,pace,PACE
+AB de Villiers,0,South African,BAT,unknown,BAT
+Yuvraj Singh,0,Indian,AR,unknown,AR
+Harbhajan Singh,0,Indian,BOWL,unknown,PACE
+IK Pathan,0,Indian,AR,unknown,AR
+Z Khan,0,Indian,BOWL,unknown,PACE
